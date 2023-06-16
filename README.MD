@@ -1,10 +1,8 @@
 # Exemplo de aplicação contendo tecnologia de templates do Jinja, arquivos externos CSS e imagens. 
 # Criado esse repositório, para a execução do deploy na Vercel utilizando o diretório SRC, sem ser o padrão API.
-# Aluno - Diego Dias
 
 
-
-## Autor: Professor - Fabrício Galende M. de Carvalho, PhD
+# Autor: Professor - Fabrício Galende M. de Carvalho, PhD
 
 Para executar o sistema:
 
@@ -45,3 +43,5 @@ python app.py
     ```console 
     vercel --prod 
     ```
+    
+## Por Aluno - Diego Dias
